@@ -296,3 +296,37 @@ body {
   font-size: 14px;
   margin-left: 7px;
 }
+
+
+.form-holder { 
+  width: 40%;
+    background: #f8f8f8;
+    padding: 20px;
+    margin: 20px 20px 20px 0px;
+    border-radius: 5px;
+}
+
+.form-input{
+  padding: 5px;
+    width: 80%;
+    border: 1px solid #dbdbdb ;
+    border-radius: 5px;
+}
+
+.form-wrap{
+  margin: 10px 0px 10px 0px;
+}
+
+.form-label {
+  font-size: 16px;
+}
+
+.submit-button{
+     padding: 10px;
+    color: #fff;
+    background: var(--gradient);
+    border: 1px solid var(--gradient);
+    border-radius: 5px;
+    margin: 20px 0px 20px 0px;
+    font-size: 18px;
+}
